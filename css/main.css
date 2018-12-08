@@ -1573,7 +1573,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .primary-checkbox input:checked + label {
-  background: url(../img/elements/primary-check.png) no-repeat center center/cover;
+  background: url(../images/elements/primary-check.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -1611,7 +1611,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .confirm-checkbox input:checked + label {
-  background: url(../img/elements/success-check.png) no-repeat center center/cover;
+  background: url(../images/elements/success-check.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -1654,7 +1654,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .disabled-checkbox input:checked + label {
-  background: url(../img/elements/disabled-check.png) no-repeat center center/cover;
+  background: url(../images/elements/disabled-check.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -1692,7 +1692,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .primary-radio input:checked + label {
-  background: url(../img/elements/primary-radio.png) no-repeat center center/cover;
+  background: url(../images/elements/primary-radio.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -1730,7 +1730,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .confirm-radio input:checked + label {
-  background: url(../img/elements/success-radio.png) no-repeat center center/cover;
+  background: url(../images/elements/success-radio.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -1773,7 +1773,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .disabled-radio input:checked + label {
-  background: url(../img/elements/disabled-radio.png) no-repeat center center/cover;
+  background: url(../images/elements/disabled-radio.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -2360,7 +2360,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area {
-  background: url(../img/page_banner.jpg) top no-repeat;
+  background: url(../images/page_banner.jpg) top no-repeat;
   background-size: 100%;
   background-attachment:fixed;
   height: 380px;
@@ -2560,7 +2560,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .about-video-right {
-  background: url(../img/video-bg.jpg) no-repeat center;
+  background: url(../images/video-bg.jpg) no-repeat center;
   background-size: cover;
   height: 330px;
 }
@@ -2580,7 +2580,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .feature-area {
-  /* background: url(../img/feature-bg.jpg) center; */
+  /* background: url(../images/feature-bg.jpg) center; */
   background-size: cover;
 }
 .single-feature
@@ -2696,7 +2696,7 @@ transition: .6s;
 }
 
 .footer-area {
-  background: url(../img/footer-bg.jpg) center;
+  background: url(../images/footer-bg.jpg) center;
   background-size: cover;
   padding-top: 100px;
 }
@@ -3248,7 +3248,7 @@ transition: .6s;
 ################
 */
 .blog-banner-area {
-  background: url(../img/elements/blog/blog-banner.jpg) center;
+  background: url(../images/elements/blog/blog-banner.jpg) center;
   background-size: cover;
 }
 
