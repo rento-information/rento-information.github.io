@@ -1960,7 +1960,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 20px;
 }
 
-#header {
+.header {
   padding: 0px 0px 20px 0px;
   position: fixed;
   left: 0;
@@ -1971,7 +1971,7 @@ h1, h2, h3, h4, h5, h6 {
   background:#fff;
 }
 
-#header.header-scrolled {
+.header.header-scrolled {
   background: rgba(255, 255, 255, 0.9);
   transition: all 0.5s;
 }
@@ -1982,7 +1982,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-#header #logo h1 {
+.header #logo h1 {
   font-size: 34px;
   margin: 0;
   padding: 0;
@@ -1991,13 +1991,13 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 3px;
 }
 
-#header #logo h1 a, #header #logo h1 a:hover {
+.header #logo h1 a, #header #logo h1 a:hover {
   color: #fff;
   padding-left: 10px;
   border-left: 4px solid #8a90ff;
 }
 
-#header #logo img {
+.header #logo img {
   padding: 0;
   margin: 0;
   height:30px;

@@ -1,0 +1,87 @@
+@media (min-width:320px) and (max-width:500px)
+{
+	.fade-carousel {
+    position: relative;
+    height: 400px;
+}
+.fade-carousel .carousel-inner .item {
+    height: 400px;
+}
+.hero h1
+{
+	font-size:50px;
+}
+.section-gap-category {
+    padding: 0px 0;
+}
+#testimonial .left.carousel-control {
+    display: inline-block;
+    position: absolute;
+    left: 40%;
+    right: 0;
+    background: none;
+    font-size: 80px;
+    font-weight: bolder;
+    color: #5db4c0;
+    top: 100%;
+}
+#testimonial .right.carousel-control {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    left: 50%;
+    font-size: 80px;
+    font-weight: bolder;
+    color: #5db4c0;
+    top: 100%;
+}
+.form-section input[type="email"] {
+    border: 0 none;
+    border-radius: 25px;
+    color: #9b9b9b;
+    font-size: 16px;
+    font-style: normal;
+    height: 46px;
+    letter-spacing: 0;
+    text-align: center;
+    width: 100%;
+}
+.form-section input[type="submit"] {
+    background: #00CC6A none repeat scroll 0 0;
+    border: 0 none;
+    border-radius: 25px;
+    color: #fff;
+    height: 46px;
+    letter-spacing: 0;
+    margin-left: 0;
+    padding: 12px 58px;
+    margin-top: 5%;
+}
+.footer-logo {
+    height: 50px;
+    margin-top: 10vh;
+}
+.modal-body {
+    position: relative;
+    padding: 0px;
+    background: #fff;
+}
+.banner-area {
+    background: url(../images/page_banner.jpg) top no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 325px;
+}
+.mag-top-resp
+{
+	margin-top:5%;
+}
+.about-content h1 {
+    font-size: 36px;
+    font-weight: 600;
+}
+.mag-top-resp-2
+{
+	margin-top:10%;
+}
+}
